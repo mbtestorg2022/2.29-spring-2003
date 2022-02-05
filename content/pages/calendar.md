@@ -4,17 +4,126 @@ title: Calendar
 uid: 6ef1bcc3-c12b-636f-7bbf-ca8513842259
 ---
 
-| WEEK # | TOPICS |
-| --- | --- |
-| 1 | Incompressible Fluid Mechanics Background |
-| 2 | Some Useful Results from Calculus |
-| 3 | An Application Using Complex Numbers |
-| 4 | Root Finding |
-| 5 | Curve Fitting and Interpolation |
-| 6 | Numerical Differentiation |
-| 7 | Numerical Integration |
-| 8 | Numerical Intergration and Differential Equations |
-| 9 | Some Examples of Numerical Errors |
-| 10 | Panel Methods |
-| 11 | Boundary Layers |
-| 12 | Oscillating Rigid Objects
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Incompressible Fluid Mechanics Background
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Some Useful Results from Calculus
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+An Application Using Complex Numbers
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Root Finding
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Curve Fitting and Interpolation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Numerical Differentiation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Numerical Integration
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Numerical Intergration and Differential Equations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Some Examples of Numerical Errors
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Panel Methods
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Boundary Layers
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Oscillating Rigid Objects
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
