@@ -34,9 +34,9 @@ Problem Sets
 Supporting Files
 ----------------
 
-*   64a012.fin ([FIN](/courses/mechanical-engineering/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/assignments/64a012.fin))
-*   LOCALIZE.M ([M](/courses/mechanical-engineering/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/assignments/LOCALIZE.M))
-*   RANK2D.M ([M](/courses/mechanical-engineering/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/assignments/RANK2D.M))
-*   wig4125.out ([OUT](/courses/mechanical-engineering/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/assignments/wig4125.out))
-*   wigley5.out ([OUT](/courses/mechanical-engineering/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/assignments/wigley5.out))
-*   wigley9.out ([OUT](/courses/mechanical-engineering/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/assignments/wigley9.out))
+*   64a012.fin ({{% resource_link "a754e175-7355-6780-b2b6-88663a033701" "FIN" %}})
+*   LOCALIZE.M ({{% resource_link "3e1bc3be-1447-ab58-cf2f-131676abc97f" "M" %}})
+*   RANK2D.M ({{% resource_link "b2b6d935-1912-6925-fe8e-debf1e6c8b80" "M" %}})
+*   wig4125.out ({{% resource_link "ff168fc9-958e-0fa7-1df9-6ca4115ff2da" "OUT" %}})
+*   wigley5.out ({{% resource_link "49794f02-7590-5bed-8615-f698e47a26db" "OUT" %}})
+*   wigley9.out ({{% resource_link "3f430092-ba58-2f4a-2cfc-81c53ae9f09b" "OUT" %}})
